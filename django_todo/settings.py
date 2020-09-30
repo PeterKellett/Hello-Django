@@ -26,7 +26,7 @@ SECRET_KEY = 'o4b+u4!d!5p%(7b+kb5&=5agq$usiercwp14ej*8!qb$uim!b*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['redroller-django-todo-app.herokuapp.com']
 
 
 # Application definition
